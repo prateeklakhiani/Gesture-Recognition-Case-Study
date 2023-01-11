@@ -60,4 +60,4 @@ steps per epoch is also calculating this total number of batches to pass on to f
 
 ## Submission Model
 
-Model 3 has highest accuracy in my experiments and h5 file is submitted for the same model. Achieved good accuracy with Conv3D model with 1.8 million params Training = 98%, Validation = 86%. Loss reduced with each epoch. And accuracy also improved with each epoch.
+Model 5 has highest accuracy in my experiments and h5 file is submitted for the same model. Achieved good accuracy with Conv3D model with 1.8 million params Training = 98%, Validation = 86%. Loss reduced with each epoch. And accuracy also improved with each epoch.
